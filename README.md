@@ -1,4 +1,4 @@
-# Unsupervised_challenge
+# Unsupervised Grouping Analysis on Crypto Currencies 
 
 Determine which cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for an investment model
 
